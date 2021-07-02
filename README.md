@@ -1,2 +1,2 @@
-![](images/bannerGit.jpeg)
+![](images/BannerGit.jpg)
 
