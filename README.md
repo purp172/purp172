@@ -2,7 +2,7 @@
 - - - - - - - - - - - - - -
 ## :yellow_heart: About me
 <div style="text-align: justify"> 
-  As you may know, my name is Diogo Rebelo & I was born and raised in a beautiful portuguese city called Braga, where I'm also currently living and studying at the University of Minho. As a person, I think I'm quite versatile: I'm not a geek version of a computer engineer outside, but inside that version is there :smile:. On my free time, I really like to listening to music, read, paiting, be with my friends & whoever makes me happy and a better person. 
+  As you may know, my name is Diogo Rebelo & I was born and raised in a beautiful portuguese city called Braga 🇵🇹, where I'm also currently living and studying at the University of Minho 📑. As a person, I think I'm quite versatile: I'm not a geek version of a computer engineer outside, but inside that version is there :smile:. On my free time, I really like to listening to music 🎧, read 📘, paiting 🖌️, draw ✏️ & be with my friends 💚 & whoever makes me happy and a better person. 
 </div>
 
 ## :bar_chart: Some of my work, prettier with Stats
