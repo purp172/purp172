@@ -18,7 +18,7 @@
 <details>
   <summary>Second Year</summary>
       <details>
-         <summary>Firt Semester</summary>
+         <summary>First Semester</summary>
         
   ### Comunicação de Dados
   * __Trabalho Prático:__ [Sistema de Conversão de Ficheiros](https://github.com/Diogo-da-Silva-Rebelo/Comunicacao-de-Dados.git)
