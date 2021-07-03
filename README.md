@@ -10,6 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - - - - - - - - - - - - - - - - -
 ## :computer: Projects, Assignments & Work so far
+### :octocat: On my degree
 <details>
   <summary>First Year</summary>
       Adding Information Soon!
@@ -22,6 +23,7 @@
         
   ### Comunicação de Dados
   * __Trabalho Prático:__ [Sistema de Conversão de Ficheiros](https://github.com/Diogo-da-Silva-Rebelo/Comunicacao-de-Dados.git)
+- - - - - - - 
   
 </details>
   <details>
@@ -45,4 +47,15 @@
     
 ### Primeiros Socorros
  * __Componente Teórica:__ [Resumo da Matéria](https://github.com/Diogo-da-Silva-Rebelo/Primeiros-Socorros.git)
-    </details>
+- - - - - - - 
+   
+  </details>
+</details>
+   
+ ### :octocat: My developed skills
+ * Functional Programming: __Haskell__
+ * Imperative Programming: __C__
+ * Object Oriented Programming: __Java__
+ * Mathematics in general
+- - - - -
+ Still adding elements to this list!
