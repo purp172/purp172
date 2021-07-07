@@ -1,4 +1,13 @@
-![](images/BannerGit.jpg)
+<p style="text-align:center">
+ 
+[![Instagram badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilkpz_/)
+[![Email badge](https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:collabs.ilkpz@gmail.com)
+[![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/digzere)
+[![Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogorebelo17@hotmail.com)
+ 
+</p>
+<!--![](images/BannerGit.jpg)-->
+
 - - - - - - - - - - - - - -
 ## :purple_heart: About me
   * As you may know, my name is Diogo Rebelo & I was born and raised in a beautiful portuguese city called Braga 🇵🇹, where I'm also currently living and studying at the University of Minho 📑.
