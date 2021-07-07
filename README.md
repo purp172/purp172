@@ -1,3 +1,4 @@
+# Hey, there! Diogo here! :sparkles:
 <p style="text-align:center">
  
 [![Instagram badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilkpz_/)
@@ -64,9 +65,11 @@
  ### :octocat: My developed skills
  
  <!--![Haskell badge](images/haskellIcon.png)-->
+ ![Ubuntu badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Latex badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![Haskell badge](https://img.shields.io/badge/Hk-Haskell-purple.svg)
  
  * Functional Programming: __Haskell__
  * Imperative Programming: __C__
