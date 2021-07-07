@@ -63,7 +63,8 @@
    
  ### :octocat: My developed skills
  
- ![](images/HaskelIcon.png)
+ <!--![Haskell badge](images/haskellIcon.png)-->
+ ![Latex badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
