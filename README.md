@@ -64,13 +64,14 @@
    
  ### :octocat: My developed skills
  
- <!--![Haskell badge](images/haskellIcon.png)-->
+<img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/applicationshaskell_93694.png"/><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_clion_macos_bigsur_icon_190059.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png"/>
+
  ![Ubuntu badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
  ![Latex badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![Haskell badge](https://img.shields.io/badge/Hk-Haskell-purple.svg)
- 
+<!--![Haskell badge](https://img.shields.io/badge/Hk-Haskell-purple.svg)-->
+ * I'm using __Ubuntu__ for now
  * Functional Programming: __Haskell__
  * Imperative Programming: __C__
  * Object Oriented Programming: __Java__
