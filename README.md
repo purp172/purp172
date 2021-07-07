@@ -62,6 +62,11 @@
 </details>
    
  ### :octocat: My developed skills
+ 
+ [Haskell badge](images/HaskellIcon.png)
+ [C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ [Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ 
  * Functional Programming: __Haskell__
  * Imperative Programming: __C__
  * Object Oriented Programming: __Java__
