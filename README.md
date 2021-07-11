@@ -23,8 +23,25 @@
 ### :octocat: On my degree
 <details>
   <summary>First Year</summary>
-      Adding Information Soon!
+   <details>
+         <summary>First Semester</summary>
+        
+  ### Laboratórios de Informática I
+  * __Trabalho Prático:__ [Recriação do Jogo Clássico "Excite Bike"](https://github.com/Henrique-190/University/tree/main/1st%20Grade/1st%20Semester/LI1)
+- - - - - - - 
+  
+</details>
+ <details>
+         <summary>Second Semester</summary>
+        
+  ### Laboratórios de Informática II
+  * __Trabalho Prático:__ [Recriação do Jogo Matemático "Rastros"](https://github.com/Diogo-da-Silva-Rebelo/LI2PL7G4.git)
+- - - - - - - 
+  
+</details>
  </details>
+ 
+
  
 <details>
   <summary>Second Year</summary>
