@@ -1,5 +1,4 @@
 # Hey, there! Diogo here! :sparkles:
-<!--
 <p style="text-align:center">
  
 [![Instagram badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilkpz_/)
@@ -8,7 +7,6 @@
 [![Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogorebelo17@hotmail.com)
  
 </p>
--->
 <!--![](images/BannerGit.jpg)-->
 
 - - - - - - - - - - - - - -
