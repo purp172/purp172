@@ -78,6 +78,35 @@
    
   </details>
 </details>
+
+<details>
+  <summary>Third Year</summary>
+      <details>
+         <summary>First Semester</summary>
+        
+  ### Inteligência Artificial
+  * __Trabalho Prático:__ [Gestão de um Centro de Distribuição: *Green Distribution*](https://github.com/Diogo-da-Silva-Rebelo/IA-TP.git)
+  * __Aulas Práticas:__ [Fichas & Apontamentos](https://github.com/Diogo-da-Silva-Rebelo/Inteligencia-Artificial.git)
+ 
+  ### Sistemas Distribuídos
+  * __Trabalho Prático:__ [Serviço de Reserva e Gestão de Voos](https://github.com/Diogo-da-Silva-Rebelo/SD-TP.git)
+  * __Aulas Práticas:__ [Guiões, Exercícios & Apontamentos](https://github.com/Diogo-da-Silva-Rebelo/Sistemas-Distribuidos.git)
+       
+  ### Desenvolvimento de Sistemas e Software
+  * __Trabalho Prático:__ [Sistema de Gestão e Reparação de Equipamentos](https://github.com/Diogo-da-Silva-Rebelo/DSS.git)
+  * __Aulas Práticas:__ [Fichas, Exercícios & Apontamentos](https://github.com/Diogo-da-Silva-Rebelo/Desenvolvimento-Sistemas-Software.git)
+       
+  ### Laboratórios de Informática IV
+  * __Trabalho Prático:__ Soon
+  * __App para Android:__ [Guia Para Locais de Interesse](https://github.com/Diogo-da-Silva-Rebelo/LI4-TP-Android.git) 
+       
+  ### Comunicações Por Computador
+  * __Trabalhos Práticos:__ [TP1 + TP3](https://github.com/Diogo-da-Silva-Rebelo/Comunicacao-Por-Computadores.git) 
+  * __Trabalho Prático de Desenvolvimento:__ [TP2 - *Peer to Peer*](https://github.com/Diogo-da-Silva-Rebelo/CC-TP2-2021.git)
+- - - - - - - 
+  
+</details>
+ </details>
    
  ### :octocat: My developed skills
  
@@ -87,11 +116,14 @@
  ![Latex badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ 
 <!--![Haskell badge](https://img.shields.io/badge/Hk-Haskell-purple.svg)-->
  * I'm using __Ubuntu__ for now
  * Functional Programming: __Haskell__
  * Imperative Programming: __C__
  * Object Oriented Programming: __Java__
+ * AI language used: __Prolog__
+ * Started working with Android Apps recently
  * Mathematics in general
 - - - - -
  Still adding elements to this list!
