@@ -5,10 +5,9 @@
 [![Email badge](https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:collabs.ilkpz@gmail.com)
 [![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/digzere)
 [![Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogorebelo17@hotmail.com)
- 
-</p>
-<!--![](images/BannerGit.jpg)-->
+[![Spotify](https://img.shields.io/badge/DiogoRebelo-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diogorebelo9?si=146adeed120d453b)
 
+<!--![](images/BannerGit.jpg)-->
 - - - - - - - - - - - - - -
 ## :purple_heart: About me
   * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
@@ -16,9 +15,13 @@
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
 - - - - - - - - - - - - - - - - - -
 ## :bar_chart: Some of my work, prettier with Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - - - - - - - - - - - - - - - - -
 ## :computer: Projects, Assignments & Work so far
 ### :octocat: On my degree
