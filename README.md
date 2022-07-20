@@ -52,12 +52,3 @@
  ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  
 <!--![Haskell badge](https://img.shields.io/badge/Hk-Haskell-purple.svg)-->
- * I'm using __Ubuntu__ for now
- * Functional Programming: __Haskell__
- * Imperative Programming: __C__
- * Object Oriented Programming: __Java__
- * AI language used: __Prolog__
- * Started working with Android Apps recently
- * Mathematics in general
-- - - - -
- Still adding elements to this list!
