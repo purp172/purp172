@@ -16,12 +16,11 @@
 - - - - - - - - - - - - - - - - - -
 ## :bar_chart: Some of my work, prettier with Stats
 <div style="text-align: center;">
-     <img align="left" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-   <img align="right" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
+     <img align="center" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+   <img align="center" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
 </div>
 
-<br><br><br><br><br><br><br><br>
-
+---------------
 ## :computer: Projects, Assignments & Work so far
 ### :octocat: On my degree
 
