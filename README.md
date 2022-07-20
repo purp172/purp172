@@ -15,12 +15,11 @@
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
 - - - - - - - - - - - - - - - - - -
 ## :bar_chart: Some of my work, prettier with Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
-</a>
+<div style="text-align: center;">
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="450" height="175" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
+</div>
+<br><br><br><br><br><br><br>
 
 - - - - - - - - - - - - - - - - -
 ## :computer: Projects, Assignments & Work so far
