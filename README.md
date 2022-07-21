@@ -15,10 +15,9 @@
   <a href="mailto:diogorebelo17@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
+   <img src="" alt=""/>
 </div>
 </div>
-
-<!--![](images/BannerGit.jpg)-->
 
 ## :purple_heart: About me
   * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
