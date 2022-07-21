@@ -1,15 +1,24 @@
 # Hey, there! Diogo here! :sparkles:
-<p style="text-align:center">
  
-[![Instagram badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ilkpz_/)
-[![Facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/digzere)
-[![Spotify](https://img.shields.io/badge/DiogoRebelo-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/diogorebelo9?si=146adeed120d453b)
-[![Outlook badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:diogorebelo17@hotmail.com)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
+  <div id="badges">
+  <a href="https://www.instagram.com/ilkpz_/">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/digzere">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://open.spotify.com/user/diogorebelo9?si=146adeed120d453b">
+    <img src="https://img.shields.io/badge/DiogoRebelo-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
+  <a href="mailto:diogorebelo17@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
+</div>
+</div>
 
-<!--[![Email badge](https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:collabs.ilkpz@gmail.com)-->
 <!--![](images/BannerGit.jpg)-->
-
-<img height="300" width="400" src="https://cdn.dribbble.com/users/1825657/screenshots/5563726/working_on_it_800x600.gif"/>
 
 ## :purple_heart: About me
   * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
