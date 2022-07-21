@@ -1,6 +1,9 @@
 # Hey, there! Diogo here! :sparkles:
  
 <div align="center">
+ <div id="icon">
+ <img height="200" width="200" src="https://github.com/Diogo-da-Silva-Rebelo/Diogo-da-Silva-Rebelo/blob/main/avatar.png" alt=""/>
+ </div>
   <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
   <div id="badges">
   <a href="https://www.instagram.com/ilkpz_/">
@@ -15,7 +18,6 @@
   <a href="mailto:diogorebelo17@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
   </a>
-   <img src="" alt=""/>
 </div>
 </div>
 
