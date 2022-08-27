@@ -1,9 +1,6 @@
-# Hey, there! Diogo here! :sparkles:
+# Hey, there! Diogo here!
  
 <div align="center">
- <div id="icon">
- <img height="200" width="200" src="https://github.com/Diogo-da-Silva-Rebelo/Diogo-da-Silva-Rebelo/blob/main/avatar.png" alt=""/>
- </div>
   <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
   <div id="badges">
   <a href="https://www.instagram.com/ilkpz_/">
@@ -21,7 +18,7 @@
 </div>
 </div>
 
-## :purple_heart: About me
+## About me
   * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
   * As a person, I'm quite versatile: I'm not a geek version of a computer engineer outside, but inside that version is there :smile:.
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
