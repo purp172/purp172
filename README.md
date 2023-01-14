@@ -22,12 +22,6 @@
   * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
   * As a person, I'm quite versatile: I'm not a geek version of a computer engineer outside, but inside that version is there :smile:.
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
-- - - - - - - - - - - - - - - - - -
-## :bar_chart: Some of my work, prettier with Stats
-<div style="text-align: center;">
-     <img align="center" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-   <img align="center" alt="Diogo Rebelo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&theme=radical" />
-</div>
 
 ---------------
 ## :computer: Projects, Assignments & Work so far
