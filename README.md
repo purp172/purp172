@@ -1,7 +1,6 @@
 # Hey, there! Diogo here!
  
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
   <div id="badges">
   <a href="https://www.instagram.com/ilkpz_/">
     <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
