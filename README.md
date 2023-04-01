@@ -24,6 +24,13 @@
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
 
 ---------------
+
+## Some stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&layout=compact)
+
+---------------
 ## :computer: Projects, Assignments & Work so far
 ### :octocat: On my degree
 
@@ -56,3 +63,4 @@
  ![Haskell badge](https://img.shields.io/badge/Haskell-800080?style=for-the-badge&logo=haskell&logoColor=white)
  ![Python badge](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white)
  ![C++ badge](https://img.shields.io/badge/C++-809FFF?style=for-the-badge&logo=cpp&logoColor=white)
+ ![Prolog badge](https://img.shields.io/badge/Prolog-990000?style=for-the-badge&logo=prolog&logoColor=white)
