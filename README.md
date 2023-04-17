@@ -55,7 +55,18 @@
 ----------------------------------
  ### :octocat: My developed skills
  
-<img height="40" width="40" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_ubuntu_11314.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_clion_macos_bigsur_icon_190059.png"/>   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png"/>
+ <div>
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_ubuntu_11314.png"/>   
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189956.png"/>  
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png"/>  
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_clion_macos_bigsur_icon_190059.png"/>   
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png"/>
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png"/>
+ <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"/>
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/61949643/232374266-0a514cac-94a6-4f73-bea8-9f8f3c51fd94.png"/>
+ <img height="40" width="40" src="https://user-images.githubusercontent.com/61949643/232374396-56d8a641-3f67-46c8-8f3a-1360b795d449.png"/>
+ </div>
+
 
  ![Latex badge](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
  ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -63,4 +74,8 @@
  ![Haskell badge](https://img.shields.io/badge/Haskell-800080?style=for-the-badge&logo=haskell&logoColor=white)
  ![Python badge](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white)
  ![C++ badge](https://img.shields.io/badge/C++-809FFF?style=for-the-badge&logo=cpp&logoColor=white)
- ![Prolog badge](https://img.shields.io/badge/Prolog-990000?style=for-the-badge&logo=prolog&logoColor=white)
+ ![Prolog badge](https://img.shields.io/badge/Prolog-990000?style=for-the-badge&logo=Prolog&logoColor=white)
+ ![React badge](https://img.shields.io/badge/React-088F8F?style=for-the-badge&logo=React&logoColor=white)
+ ![JS badge](https://img.shields.io/badge/Javascript-E4D00A?style=for-the-badge&logo=Javascript&logoColor=black)
+ ![CSS badge](https://img.shields.io/badge/CSS-1434A4?style=for-the-badge&logoColor=white)
+ 
