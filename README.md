@@ -44,8 +44,8 @@
 [![Diogo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph)
 
 ---------------
-## :computer: Projects, Assignments & Work so far
-### :octocat: On my degree
+## Projects, Assignments & Work so far
+### On my degree
 
 <details>
   <summary>1st Grade</summary>
@@ -66,7 +66,7 @@
 </details>
 
 ----------------------------------
- ### :octocat: My developed skills
+ ### My developed skills
  
  <div>
  <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_ubuntu_11314.png"/>   
