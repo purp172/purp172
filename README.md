@@ -1,4 +1,6 @@
-# Hey, there! Diogo here!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Diogo+Rebelo;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  <!--<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
@@ -26,9 +28,20 @@
 ---------------
 
 ## Some stats
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&bg_color=0d1117&color=b13583&line=b13583&text_color=ffffff&title_color=C3C3C3&point=ff9494&area=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=C3C3C3&color=b13583&line=b13583&point=ff9494&layout=compact?&area=true&hide_border=true&count_private=true)-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&show_icons=true&theme=radical&layout=compact)
+<!--<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diogo-da-Silva-Rebelo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> -->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diogo-da-Silva-Rebelo&show_icons=true&count_private=true&hide_border=true&title_color=C3C3C3&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Diogo Rebeli github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-da-Silva-Rebelo&layout=compact&hide_border=true&title_color=C3C3C3&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+[![Diogo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph)
 
 ---------------
 ## :computer: Projects, Assignments & Work so far
@@ -79,3 +92,4 @@
  ![JS badge](https://img.shields.io/badge/Javascript-E4D00A?style=for-the-badge&logo=Javascript&logoColor=black)
  ![CSS badge](https://img.shields.io/badge/CSS-1434A4?style=for-the-badge&logoColor=white)
  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
