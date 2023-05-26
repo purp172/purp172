@@ -42,7 +42,7 @@
 </div>
 
 
-[![Diogo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph)
+<!--[![Diogo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph)-->
 
 ---------------
 ## Projects, Assignments & Work so far
