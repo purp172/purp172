@@ -68,7 +68,7 @@
 
 ----------------------------------
  ### On my master
- Check my latest website: [Air Visual]([https://openai.com](https://air-visual.netlify.app/)
+ Check my latest website: [Air Visual](https://air-visual.netlify.app/)
  
 ----------------------------------
  ### My developed skills
