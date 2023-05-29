@@ -68,7 +68,7 @@
 
 ----------------------------------
  ### On my master
- Check my latest website: [Air Visual](https://air-visual.netlify.app/)
+ Check my latest website: [Air Visual](https://air-visual.netlify.app/){:target="_blank"}
  
 ----------------------------------
  ### My developed skills
