@@ -68,7 +68,8 @@
 
 ----------------------------------
  ### On my master
- Check my latest website:  <a href="https://air-visual.netlify.app/" target="_blank"> Air Visual </a>
+ <!--Check my latest website:  <a href="https://air-visual.netlify.app/" target="_blank"> Air Visual </a> -->
+Coming Soon
 
  
 ----------------------------------
