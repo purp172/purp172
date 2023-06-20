@@ -68,7 +68,7 @@
 
 ----------------------------------
  ### On my master
- Check my latest website:  <a href="https://air-visual.netlify.app/" target="_blank"> Air Visual </a>
+Check out my latest website: [Air Visual](https://air-visual.netlify.app/)
 
 <details>
   <summary>1st Grade</summary>
