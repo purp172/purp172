@@ -21,9 +21,10 @@
 </div>-->
 
 ## About me
-  * My name is Diogo Rebelo & I was born and raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
+  * My name is Diogo Rebelo & I was raised in a portuguese beautiful city called Braga 🇵🇹, where I'm also currently living and studying at the Minho's University 📑.
   * As a person, I'm quite versatile: I'm not a geek version of a computer engineer outside, but inside that version is there :smile:.
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
+  * Currently enrolling in the 2nd year of my master's specialization.
 
 ---------------
 
