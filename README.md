@@ -26,6 +26,7 @@
   * On my free time, I really like to listening to music 🎧 and be with my friends & whoever makes me happy and a better person.
   * Currently enrolling in the 2nd year of my master's specialization.
 
+
 ---------------
 
 ## Some stats
