@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Diogo+Rebelo;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Diogo+Rebelo;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
  <!--<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Diogo-da-Silva-Rebelo&style=for-the-badge&color=blueviolet" alt=""/>
@@ -44,7 +44,7 @@
 </div>
 
 
-[![Diogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph)
+<!-- [![Diogo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diogo-da-Silva-Rebelo&bg_color=0d1117&color=ffffff&line=C3C3C3&point=C3C3C4&area=false&hide_border=true)](https://github.com/Diogo-da-Silva-Rebelo/github-readme-activity-graph) -->
 
 ---------------
 ## Projects, Assignments & Work so far
