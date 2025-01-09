@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC5800&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Diogo+Rebelo;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
@@ -114,4 +114,4 @@ Check out my latest website: [Air Visual](https://air-visual.netlify.app/)
  ![JS badge](https://img.shields.io/badge/Javascript-E4D00A?style=for-the-badge&logo=Javascript&logoColor=black)
  ![CSS badge](https://img.shields.io/badge/CSS-1434A4?style=for-the-badge&logoColor=white)
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC5800&height=120&section=footer"/>
